@@ -1,27 +1,13 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Sample App for railstutorial.org
 
-Things you may want to cover:
+This is a Twitter-style Microblog site
 
-* Ruby version
+Built from the ground up by Dominic J Romano
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Begun 15 January 2014
+Chapter 3 - Static Pages
 
 
 Please feel free to use a different markup language if you do not plan to run
