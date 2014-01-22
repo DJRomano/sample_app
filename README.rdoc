@@ -6,8 +6,15 @@ This is a Twitter-style Microblog site
 
 Built from the ground up by Dominic J Romano
 
-Begun 15 January 2014
+
 Chapter 3 - Static Pages
+Begun 15 January 2014
+Completed 16 January 2014
+
+Chapter 4 - Rails-flavored Ruby
+Begun 16 January 2014
+Completed 17 January 2014 (No changes made)
+
 
 
 Please feel free to use a different markup language if you do not plan to run
